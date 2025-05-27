@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using WeatherApp.Services;
+
+var httpClient = new HttpClient();
+
+var weatherService = new WeatherService(httpClient);
+
+Console.Write("Enter city name: ");
+
+var weather = await weatherService.GetWeatherAsync(Console.ReadLine());
+
+Console.WriteLine(weather); 

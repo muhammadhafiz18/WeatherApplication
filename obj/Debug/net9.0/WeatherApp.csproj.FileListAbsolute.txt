@@ -1,0 +1,15 @@
+/Users/muhammadspc/Ilmhub/dotnet-standard-lessons/WeatherApp/obj/Debug/net9.0/WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadspc/Ilmhub/dotnet-standard-lessons/WeatherApp/obj/Debug/net9.0/WeatherApp.AssemblyInfoInputs.cache
+/Users/muhammadspc/Ilmhub/dotnet-standard-lessons/WeatherApp/obj/Debug/net9.0/WeatherApp.AssemblyInfo.cs
+/Users/muhammadspc/Ilmhub/dotnet-standard-lessons/WeatherApp/obj/Debug/net9.0/WeatherApp.csproj.CoreCompileInputs.cache
+/Users/muhammadspc/Ilmhub/dotnet-standard-lessons/WeatherApp/obj/Debug/net9.0/WeatherApp.sourcelink.json
+/Users/muhammadspc/Ilmhub/dotnet-standard-lessons/WeatherApp/bin/Debug/net9.0/WeatherApp
+/Users/muhammadspc/Ilmhub/dotnet-standard-lessons/WeatherApp/bin/Debug/net9.0/WeatherApp.deps.json
+/Users/muhammadspc/Ilmhub/dotnet-standard-lessons/WeatherApp/bin/Debug/net9.0/WeatherApp.runtimeconfig.json
+/Users/muhammadspc/Ilmhub/dotnet-standard-lessons/WeatherApp/bin/Debug/net9.0/WeatherApp.dll
+/Users/muhammadspc/Ilmhub/dotnet-standard-lessons/WeatherApp/bin/Debug/net9.0/WeatherApp.pdb
+/Users/muhammadspc/Ilmhub/dotnet-standard-lessons/WeatherApp/obj/Debug/net9.0/WeatherApp.dll
+/Users/muhammadspc/Ilmhub/dotnet-standard-lessons/WeatherApp/obj/Debug/net9.0/refint/WeatherApp.dll
+/Users/muhammadspc/Ilmhub/dotnet-standard-lessons/WeatherApp/obj/Debug/net9.0/WeatherApp.pdb
+/Users/muhammadspc/Ilmhub/dotnet-standard-lessons/WeatherApp/obj/Debug/net9.0/WeatherApp.genruntimeconfig.cache
+/Users/muhammadspc/Ilmhub/dotnet-standard-lessons/WeatherApp/obj/Debug/net9.0/ref/WeatherApp.dll
